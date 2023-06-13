@@ -7,4 +7,3 @@ To make it functional and hide each question, state is used. In addition, to jus
 More questions can be added through the data.js file.
 
 Information was transferred with the help of props.
-# accordionQuestionsReact
